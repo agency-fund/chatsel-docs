@@ -1,0 +1,24 @@
+{
+  "id": "t2-behind-the-build/Chatbot Design/p4-no-code-demo",
+  "title": "Minimal Viable Product (MVP)",
+  "description": "A hands-on no-code option for product managers",
+  "source": "@site/docs/t2-behind-the-build/Chatbot Design/p4-no-code-demo.md",
+  "sourceDirName": "t2-behind-the-build/Chatbot Design",
+  "slug": "/t2-behind-the-build/Chatbot Design/p4-no-code-demo",
+  "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p4-no-code-demo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t2-behind-the-build/Chatbot Design/p4-no-code-demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Evals",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation"
+  },
+  "next": {
+    "title": "What is Learning Engineering?",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p1-learning-engineering"
+  }
+}

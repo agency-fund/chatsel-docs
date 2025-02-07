@@ -1,0 +1,23 @@
+{
+  "id": "t3-behavioral-science/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/t3-behavioral-science/translate-your-site.md",
+  "sourceDirName": "t3-behavioral-science",
+  "slug": "/t3-behavioral-science/translate-your-site",
+  "permalink": "/chatsel-docs/docs/t3-behavioral-science/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t3-behavioral-science/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/chatsel-docs/docs/t3-behavioral-science/manage-docs-versions"
+  }
+}

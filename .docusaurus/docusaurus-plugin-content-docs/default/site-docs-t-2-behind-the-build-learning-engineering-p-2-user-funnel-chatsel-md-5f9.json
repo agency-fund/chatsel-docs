@@ -1,0 +1,27 @@
+{
+  "id": "t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel",
+  "title": "User Funnel for ChatSEL",
+  "description": "Here we provide a step-by-step framework that illustrates the journey of teachers from the initial point of awareness about ChatSEL to the final impact on student outcomes. It helps track user behaviors, identify drop-off points, and optimize engagement strategies. For ChatSEL, which operates in low-resource settings, the funnel ensures teachers are effectively onboarded, engaged, and supported to achieve meaningful classroom outcomes.",
+  "source": "@site/docs/t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel.md",
+  "sourceDirName": "t2-behind-the-build/Learning Engineering",
+  "slug": "/t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel",
+  "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Learning Engineering?",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p1-learning-engineering"
+  },
+  "next": {
+    "title": "UX Research for ChatSEL",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel"
+  }
+}

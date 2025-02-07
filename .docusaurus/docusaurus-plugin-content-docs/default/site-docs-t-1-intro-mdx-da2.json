@@ -1,0 +1,23 @@
+{
+  "id": "t1-intro",
+  "title": "Welcome to ChatSEL 🌱",
+  "description": "ChatSEL is an open-source, AI-powered chatbot designed to transform how teachers in low-income and low-resource settings deliver Social and Emotional Learning (SEL).",
+  "source": "@site/docs/t1-intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/t1-intro",
+  "permalink": "/chatsel-docs/docs/t1-intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t1-intro.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Behind the Build",
+    "permalink": "/chatsel-docs/docs/category/behind-the-build"
+  }
+}
