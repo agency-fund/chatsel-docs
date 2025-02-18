@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchatsel_docs=self.webpackChunkchatsel_docs||[]).push([[7472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About Us","permalink":"/chatsel-docs/blog/aboutus","unlisted":false,"date":"2025-02-18T00:00:00.000Z"}]}')}}]);
