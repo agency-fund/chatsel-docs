@@ -56,38 +56,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/experiment-design",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/experiment-design",
+              "id": "t2-behind-the-build/Learning Engineering/p4-evaluation",
+              "path": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/intervention-design",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/intervention-design",
+              "id": "t3-behavioral-science/p1-user-funnel",
+              "path": "/chatsel-docs/docs/t3-behavioral-science/p1-user-funnel",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/manage-docs-versions",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/manage-docs-versions",
+              "id": "t3-behavioral-science/p2-user-research",
+              "path": "/chatsel-docs/docs/t3-behavioral-science/p2-user-research",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/measurement",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/measurement",
+              "id": "t3-behavioral-science/p3-intervention-design",
+              "path": "/chatsel-docs/docs/t3-behavioral-science/p3-intervention-design",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/translate-your-site",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/translate-your-site",
+              "id": "t3-behavioral-science/p4-measurement-evaluation",
+              "path": "/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t3-behavioral-science/user-funnel",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/user-funnel",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/ux-research",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/ux-research",
+              "id": "t3-behavioral-science/p5-experiment-design",
+              "path": "/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,8 +91,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/guidelines",
-              "path": "/chatsel-docs/docs/category/guidelines",
+              "id": "/category/genai-playbooks-tbd",
+              "path": "/chatsel-docs/docs/category/genai-playbooks-tbd",
               "sidebar": "tutorialSidebar"
             }
           ],

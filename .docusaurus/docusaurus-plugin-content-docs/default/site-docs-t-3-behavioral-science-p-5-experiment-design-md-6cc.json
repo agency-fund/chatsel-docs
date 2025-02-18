@@ -1,0 +1,23 @@
+{
+  "id": "t3-behavioral-science/p5-experiment-design",
+  "title": "5. Experiment Design",
+  "description": "This page is under development...",
+  "source": "@site/docs/t3-behavioral-science/p5-experiment-design.md",
+  "sourceDirName": "t3-behavioral-science",
+  "slug": "/t3-behavioral-science/p5-experiment-design",
+  "permalink": "/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t3-behavioral-science/p5-experiment-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4. Measurement and Evaluation",
+    "permalink": "/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation"
+  }
+}

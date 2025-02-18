@@ -1,0 +1,27 @@
+{
+  "id": "t2-behind-the-build/Learning Engineering/p4-evaluation",
+  "title": "Evaluation for ChatSEL",
+  "description": "This page is under development...",
+  "source": "@site/docs/t2-behind-the-build/Learning Engineering/p4-evaluation.md",
+  "sourceDirName": "t2-behind-the-build/Learning Engineering",
+  "slug": "/t2-behind-the-build/Learning Engineering/p4-evaluation",
+  "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t2-behind-the-build/Learning Engineering/p4-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Research for ChatSEL",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel"
+  },
+  "next": {
+    "title": "GenAI Playbooks (TBD...)",
+    "permalink": "/chatsel-docs/docs/category/genai-playbooks-tbd"
+  }
+}

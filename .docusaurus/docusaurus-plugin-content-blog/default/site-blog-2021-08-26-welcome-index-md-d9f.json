@@ -1,9 +1,9 @@
 {
-  "permalink": "/chatsel-docs/blog/welcome",
+  "permalink": "/chatsel-docs/blog/aboutus",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
-  "title": "Welcome",
-  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "title": "About Us",
+  "description": "I strive to be a polymath.",
   "date": "2021-08-26T00:00:00.000Z",
   "tags": [
     {
@@ -25,46 +25,44 @@
       "description": "Docusaurus tag description"
     }
   ],
-  "readingTime": 0.465,
+  "readingTime": 0.195,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "Zezhen (Michael) Wu",
+      "title": "Behavioral Scientist @ The Agency Fund",
+      "url": "https://www.linkedin.com/in/zezhenwu/",
       "page": {
-        "permalink": "/chatsel-docs/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/chatsel-docs/blog/authors/all-zezhen-wu-articles"
       },
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "github": "https://github.com/littlehifive",
+        "linkedin": "https://www.linkedin.com/in/zezhenwu/"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
+      "imageURL": "https://github.com/littlehifive.png",
+      "key": "zezhen"
     },
     {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
+      "name": "Edmund Korley",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/in/edmundkorley/",
       "page": {
-        "permalink": "/chatsel-docs/blog/authors/yangshun"
+        "permalink": "/chatsel-docs/blog/authors/edmund"
       },
       "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
+        "linkedin": "https://www.linkedin.com/in/EdmundKorley/",
+        "github": "https://github.com/edmundkorley"
       },
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "imageURL": "https://github.com/EdmundKorley.png",
+      "key": "edmund"
     }
   ],
   "frontMatter": {
-    "slug": "welcome",
-    "title": "Welcome",
+    "slug": "aboutus",
+    "title": "About Us",
     "authors": [
-      "slorber",
-      "yangshun"
+      "zezhen",
+      "edmund"
     ],
     "tags": [
       "facebook",
@@ -72,9 +70,5 @@
       "docusaurus"
     ]
   },
-  "unlisted": false,
-  "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/chatsel-docs/blog/mdx-blog-post"
-  }
+  "unlisted": false
 }

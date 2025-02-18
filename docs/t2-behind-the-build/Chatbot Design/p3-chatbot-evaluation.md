@@ -4,6 +4,12 @@ sidebar_position: 3
 
 # LLM Evals
 
+:::warning
+
+This page is under development...
+
+:::
+
 ## What is "eval"?
 "Eval" stands for evaluation. Unlike "evaluation" in social impact projects, which typically refers to impact evaluation, "eval" in the context of GenAI usually refers to the systematic assessment of the performance of large language models (LLMs) and their associated applications.
 
@@ -23,7 +29,12 @@ An LLM eval is like that test, but for an AI language model instead of a student
 The goal is to figure out what the AI does well, where it makes mistakes, and how it can be improved — just like helping a student become a better learner.
 
 ## What is our eval strategy for ChatSEL?
-_TBD..._
+
+:::warning
+
+This section is under development...
+
+:::
 
 [RAGAS metrics](https://docs.ragas.io/en/stable/concepts/metrics/overview/)
 

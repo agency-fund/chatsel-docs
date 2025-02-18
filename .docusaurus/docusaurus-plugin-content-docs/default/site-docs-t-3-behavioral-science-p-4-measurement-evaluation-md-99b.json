@@ -1,0 +1,27 @@
+{
+  "id": "t3-behavioral-science/p4-measurement-evaluation",
+  "title": "4. Measurement and Evaluation",
+  "description": "This page is under development...",
+  "source": "@site/docs/t3-behavioral-science/p4-measurement-evaluation.md",
+  "sourceDirName": "t3-behavioral-science",
+  "slug": "/t3-behavioral-science/p4-measurement-evaluation",
+  "permalink": "/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t3-behavioral-science/p4-measurement-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. Intervention and Product Design",
+    "permalink": "/chatsel-docs/docs/t3-behavioral-science/p3-intervention-design"
+  },
+  "next": {
+    "title": "5. Experiment Design",
+    "permalink": "/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design"
+  }
+}

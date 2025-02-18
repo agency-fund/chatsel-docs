@@ -1,23 +1,31 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+edmund:
+  name: Edmund Korley
+  title: Software Engineer
+  url: https://www.linkedin.com/in/edmundkorley/
+  image_url: https://github.com/EdmundKorley.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    linkedin: EdmundKorley
+    github: edmundkorley
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
+zezhen:
+  name: Zezhen (Michael) Wu
+  title: Behavioral Scientist @ The Agency Fund
+  url: https://www.linkedin.com/in/zezhenwu/
+  image_url: https://github.com/littlehifive.png
+  page: true
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    # permalink: '/all-zezhen-wu-articles'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: zezhenwu
+    github: littlehifive
+
+linus:
+  name: Linus Wong
+  title: Software Engineer
+  url: https://www.linkedin.com/in/linus-wong-999b551/
+  image_url: https://github.com/qixotic.png
+  page: true
+  socials:
+    linkedin: linus-wong-999b551
+    github: qixotic

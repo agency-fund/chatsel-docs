@@ -1,7 +1,7 @@
 {
   "id": "t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel",
-  "title": "UX Research for ChatSEL",
-  "description": "Expand to check out the detailed plan!",
+  "title": "User Research for ChatSEL",
+  "description": "This page is under development...",
   "source": "@site/docs/t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel.md",
   "sourceDirName": "t2-behind-the-build/Learning Engineering",
   "slug": "/t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel",
@@ -21,7 +21,7 @@
     "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p2-user-funnel-chatsel"
   },
   "next": {
-    "title": "Guidelines",
-    "permalink": "/chatsel-docs/docs/category/guidelines"
+    "title": "Evaluation for ChatSEL",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation"
   }
 }

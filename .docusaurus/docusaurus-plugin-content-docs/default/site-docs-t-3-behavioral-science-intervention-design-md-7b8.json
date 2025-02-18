@@ -1,6 +1,6 @@
 {
   "id": "t3-behavioral-science/intervention-design",
-  "title": "3. Intervention Design",
+  "title": "3. Intervention and Product Design",
   "description": "",
   "source": "@site/docs/t3-behavioral-science/intervention-design.md",
   "sourceDirName": "t3-behavioral-science",
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2. UX Research",
-    "permalink": "/chatsel-docs/docs/t3-behavioral-science/ux-research"
+    "permalink": "/chatsel-docs/docs/t3-behavioral-science/p2-user-research"
   },
   "next": {
     "title": "4. Measurement",
