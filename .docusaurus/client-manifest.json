@@ -207,9 +207,6 @@
       1869,
       8401
     ],
-    "59362658": [
-      9325
-    ],
     "main": [
       1869,
       5354,
@@ -227,11 +224,11 @@
     "030e7390": [
       292
     ],
+    "0cbd4911": [
+      7945
+    ],
     "12f0d0d3": [
       4543
-    ],
-    "14cc431f": [
-      1820
     ],
     "14eb3368": [
       1869,
@@ -245,23 +242,17 @@
     "21e75628": [
       9527
     ],
-    "2559e88d": [
-      6913
+    "27d3fc1d": [
+      263
     ],
-    "2e20e1cf": [
-      4179
+    "31b97a48": [
+      808
     ],
     "33fc5bb8": [
       851,
       1869,
       4622,
       867
-    ],
-    "357c8c8d": [
-      3642
-    ],
-    "3655281b": [
-      8969
     ],
     "36994c47": [
       9858
@@ -274,6 +265,9 @@
     ],
     "41ef92e0": [
       9381
+    ],
+    "5bbfa106": [
+      8586
     ],
     "5e95c892": [
       9647
@@ -295,35 +289,23 @@
       4622,
       4813
     ],
-    "6fad37f9": [
-      853
+    "6bda22d8": [
+      6566
     ],
-    "73664a40": [
-      1972
-    ],
-    "7661071f": [
-      8737
-    ],
-    "7b883092": [
-      7048
+    "6ccda4f6": [
+      6368
     ],
     "814f3328": [
       7472
     ],
-    "82ddba7a": [
-      5726
+    "817d6537": [
+      5646
     ],
-    "8717b14a": [
-      3694
+    "914f8f51": [
+      3371
     ],
-    "884ab13d": [
-      3408
-    ],
-    "925b3f96": [
-      8609
-    ],
-    "9abd610d": [
-      9032
+    "99b470a1": [
+      7012
     ],
     "9ae3eced": [
       9258
@@ -334,8 +316,8 @@
     "9e4087bc": [
       2711
     ],
-    "a293b45b": [
-      3957
+    "a138c2fa": [
+      4176
     ],
     "a6aa9e1f": [
       851,
@@ -379,33 +361,24 @@
       1869,
       2634
     ],
-    "c9755dec": [
-      9544
-    ],
     "ccc49370": [
       851,
       1869,
       4622,
       3249
     ],
-    "d9f32620": [
-      5557
+    "d71c50fd": [
+      6473
     ],
     "da28f31b": [
       4132,
       2384
     ],
-    "db106eaf": [
-      4568
+    "e7e41662": [
+      5573
     ],
-    "e273c56f": [
-      9328
-    ],
-    "f4f34a3a": [
-      3637
-    ],
-    "f67f0da5": [
-      8634
+    "f7720985": [
+      6129
     ],
     "reactPlayerYouTube": [
       8446
@@ -478,12 +451,21 @@
         }
       ]
     },
+    "263": {
+      "js": [
+        {
+          "file": "assets/js/27d3fc1d.9583d0b8.js",
+          "hash": "8e34c3cd550327ac",
+          "publicPath": "/chatsel-docs/assets/js/27d3fc1d.9583d0b8.js"
+        }
+      ]
+    },
     "292": {
       "js": [
         {
-          "file": "assets/js/030e7390.ac9793b4.js",
-          "hash": "6e8569ad0d7bb08d",
-          "publicPath": "/chatsel-docs/assets/js/030e7390.ac9793b4.js"
+          "file": "assets/js/030e7390.bb4297dd.js",
+          "hash": "c9b0bb0057f86ef4",
+          "publicPath": "/chatsel-docs/assets/js/030e7390.bb4297dd.js"
         }
       ]
     },
@@ -514,6 +496,15 @@
         }
       ]
     },
+    "808": {
+      "js": [
+        {
+          "file": "assets/js/31b97a48.4665ca83.js",
+          "hash": "ee5058c2840b26f1",
+          "publicPath": "/chatsel-docs/assets/js/31b97a48.4665ca83.js"
+        }
+      ]
+    },
     "851": {
       "js": [
         {
@@ -523,21 +514,12 @@
         }
       ]
     },
-    "853": {
-      "js": [
-        {
-          "file": "assets/js/6fad37f9.90509a5a.js",
-          "hash": "9958431565247fd2",
-          "publicPath": "/chatsel-docs/assets/js/6fad37f9.90509a5a.js"
-        }
-      ]
-    },
     "860": {
       "js": [
         {
-          "file": "assets/js/c2987c8e.756abe6b.js",
-          "hash": "f57d994ad4e95e5c",
-          "publicPath": "/chatsel-docs/assets/js/c2987c8e.756abe6b.js"
+          "file": "assets/js/c2987c8e.f0095fa7.js",
+          "hash": "b74540b32f68c085",
+          "publicPath": "/chatsel-docs/assets/js/c2987c8e.f0095fa7.js"
         }
       ]
     },
@@ -571,18 +553,9 @@
     "1308": {
       "js": [
         {
-          "file": "assets/js/b721dfb1.2fd703a0.js",
-          "hash": "4e3e1a45e4c03ba9",
-          "publicPath": "/chatsel-docs/assets/js/b721dfb1.2fd703a0.js"
-        }
-      ]
-    },
-    "1820": {
-      "js": [
-        {
-          "file": "assets/js/14cc431f.a7f5850b.js",
-          "hash": "544b5828899f0b1c",
-          "publicPath": "/chatsel-docs/assets/js/14cc431f.a7f5850b.js"
+          "file": "assets/js/b721dfb1.35502d42.js",
+          "hash": "7e3360963360891d",
+          "publicPath": "/chatsel-docs/assets/js/b721dfb1.35502d42.js"
         }
       ]
     },
@@ -610,15 +583,6 @@
           "file": "assets/js/acecf23e.b170a612.js",
           "hash": "a668c085decd931e",
           "publicPath": "/chatsel-docs/assets/js/acecf23e.b170a612.js"
-        }
-      ]
-    },
-    "1972": {
-      "js": [
-        {
-          "file": "assets/js/73664a40.b97a5633.js",
-          "hash": "91761c2d1589485e",
-          "publicPath": "/chatsel-docs/assets/js/73664a40.b97a5633.js"
         }
       ]
     },
@@ -652,9 +616,9 @@
     "2384": {
       "js": [
         {
-          "file": "assets/js/da28f31b.f8ccde9b.js",
-          "hash": "c86b62ff33002e33",
-          "publicPath": "/chatsel-docs/assets/js/da28f31b.f8ccde9b.js"
+          "file": "assets/js/da28f31b.2854713e.js",
+          "hash": "83642c467dbb1253",
+          "publicPath": "/chatsel-docs/assets/js/da28f31b.2854713e.js"
         }
       ]
     },
@@ -688,9 +652,9 @@
     "2690": {
       "js": [
         {
-          "file": "assets/js/9b5a601c.c3bdb1c2.js",
-          "hash": "658d4a461bfd82b4",
-          "publicPath": "/chatsel-docs/assets/js/9b5a601c.c3bdb1c2.js"
+          "file": "assets/js/9b5a601c.8aae340f.js",
+          "hash": "99b9260f6547c146",
+          "publicPath": "/chatsel-docs/assets/js/9b5a601c.8aae340f.js"
         }
       ]
     },
@@ -748,21 +712,21 @@
         }
       ]
     },
+    "3371": {
+      "js": [
+        {
+          "file": "assets/js/914f8f51.7032d7bf.js",
+          "hash": "f5b6fcdd09f637e3",
+          "publicPath": "/chatsel-docs/assets/js/914f8f51.7032d7bf.js"
+        }
+      ]
+    },
     "3392": {
       "js": [
         {
           "file": "assets/js/reactPlayerVidyard.25969071.js",
           "hash": "5dbe5a128a4d51d3",
           "publicPath": "/chatsel-docs/assets/js/reactPlayerVidyard.25969071.js"
-        }
-      ]
-    },
-    "3408": {
-      "js": [
-        {
-          "file": "assets/js/884ab13d.20fdd7de.js",
-          "hash": "309bfc1f34090908",
-          "publicPath": "/chatsel-docs/assets/js/884ab13d.20fdd7de.js"
         }
       ]
     },
@@ -775,39 +739,12 @@
         }
       ]
     },
-    "3637": {
-      "js": [
-        {
-          "file": "assets/js/f4f34a3a.7e1d504b.js",
-          "hash": "4a2b10b44e174d11",
-          "publicPath": "/chatsel-docs/assets/js/f4f34a3a.7e1d504b.js"
-        }
-      ]
-    },
-    "3642": {
-      "js": [
-        {
-          "file": "assets/js/357c8c8d.92eff796.js",
-          "hash": "53b017d78e9d7093",
-          "publicPath": "/chatsel-docs/assets/js/357c8c8d.92eff796.js"
-        }
-      ]
-    },
     "3668": {
       "js": [
         {
-          "file": "assets/js/5f982feb.8481f46a.js",
-          "hash": "0b589a3ba46ff86d",
-          "publicPath": "/chatsel-docs/assets/js/5f982feb.8481f46a.js"
-        }
-      ]
-    },
-    "3694": {
-      "js": [
-        {
-          "file": "assets/js/8717b14a.81b7b0ae.js",
-          "hash": "293c67868d0e51f0",
-          "publicPath": "/chatsel-docs/assets/js/8717b14a.81b7b0ae.js"
+          "file": "assets/js/5f982feb.9845d9cc.js",
+          "hash": "4532f718411b5b9a",
+          "publicPath": "/chatsel-docs/assets/js/5f982feb.9845d9cc.js"
         }
       ]
     },
@@ -817,15 +754,6 @@
           "file": "assets/js/afdefdc3.bc5be927.js",
           "hash": "691d55ae9864cc04",
           "publicPath": "/chatsel-docs/assets/js/afdefdc3.bc5be927.js"
-        }
-      ]
-    },
-    "3957": {
-      "js": [
-        {
-          "file": "assets/js/a293b45b.3fcbb5a6.js",
-          "hash": "294cb89edc4bc69c",
-          "publicPath": "/chatsel-docs/assets/js/a293b45b.3fcbb5a6.js"
         }
       ]
     },
@@ -847,12 +775,12 @@
         }
       ]
     },
-    "4179": {
+    "4176": {
       "js": [
         {
-          "file": "assets/js/2e20e1cf.2afcd65b.js",
-          "hash": "3cd1226d8ce4f7c8",
-          "publicPath": "/chatsel-docs/assets/js/2e20e1cf.2afcd65b.js"
+          "file": "assets/js/a138c2fa.85ae0c2c.js",
+          "hash": "42c92f9274d77918",
+          "publicPath": "/chatsel-docs/assets/js/a138c2fa.85ae0c2c.js"
         }
       ]
     },
@@ -886,18 +814,9 @@
     "4543": {
       "js": [
         {
-          "file": "assets/js/12f0d0d3.45ec27cc.js",
-          "hash": "a86705a33d275a21",
-          "publicPath": "/chatsel-docs/assets/js/12f0d0d3.45ec27cc.js"
-        }
-      ]
-    },
-    "4568": {
-      "js": [
-        {
-          "file": "assets/js/db106eaf.d1f62a91.js",
-          "hash": "2addd85c4000cfe6",
-          "publicPath": "/chatsel-docs/assets/js/db106eaf.d1f62a91.js"
+          "file": "assets/js/12f0d0d3.3a83e483.js",
+          "hash": "d662f2dfef4e488e",
+          "publicPath": "/chatsel-docs/assets/js/12f0d0d3.3a83e483.js"
         }
       ]
     },
@@ -931,9 +850,9 @@
     "4806": {
       "js": [
         {
-          "file": "assets/js/68027ac8.25bdcfb8.js",
-          "hash": "d5fc5008e364c566",
-          "publicPath": "/chatsel-docs/assets/js/68027ac8.25bdcfb8.js"
+          "file": "assets/js/68027ac8.0b76e467.js",
+          "hash": "0b7f4702dcc5f200",
+          "publicPath": "/chatsel-docs/assets/js/68027ac8.0b76e467.js"
         }
       ]
     },
@@ -958,9 +877,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.1ff0d0a5.js",
-          "hash": "ffd0d6df1ea97e1b",
-          "publicPath": "/chatsel-docs/assets/js/runtime~main.1ff0d0a5.js"
+          "file": "assets/js/runtime~main.ac860fbd.js",
+          "hash": "a081913122cd164c",
+          "publicPath": "/chatsel-docs/assets/js/runtime~main.ac860fbd.js"
         }
       ]
     },
@@ -973,12 +892,21 @@
         }
       ]
     },
-    "5557": {
+    "5573": {
       "js": [
         {
-          "file": "assets/js/d9f32620.596b4cb5.js",
-          "hash": "57ff2c776a8c8ded",
-          "publicPath": "/chatsel-docs/assets/js/d9f32620.596b4cb5.js"
+          "file": "assets/js/e7e41662.84d2e8d1.js",
+          "hash": "a7bb87c5c1b05ada",
+          "publicPath": "/chatsel-docs/assets/js/e7e41662.84d2e8d1.js"
+        }
+      ]
+    },
+    "5646": {
+      "js": [
+        {
+          "file": "assets/js/817d6537.f684dcc3.js",
+          "hash": "0fbffdab292d261a",
+          "publicPath": "/chatsel-docs/assets/js/817d6537.f684dcc3.js"
         }
       ]
     },
@@ -988,15 +916,6 @@
           "file": "assets/js/5708.80a0a8b4.js",
           "hash": "1ee9f6c4428f9ff3",
           "publicPath": "/chatsel-docs/assets/js/5708.80a0a8b4.js"
-        }
-      ]
-    },
-    "5726": {
-      "js": [
-        {
-          "file": "assets/js/82ddba7a.db10b47c.js",
-          "hash": "de524962e8bd522f",
-          "publicPath": "/chatsel-docs/assets/js/82ddba7a.db10b47c.js"
         }
       ]
     },
@@ -1024,6 +943,15 @@
           "file": "assets/js/1f391b9e.e52d6c3d.js",
           "hash": "6d13a59d88da99b4",
           "publicPath": "/chatsel-docs/assets/js/1f391b9e.e52d6c3d.js"
+        }
+      ]
+    },
+    "6129": {
+      "js": [
+        {
+          "file": "assets/js/f7720985.be398714.js",
+          "hash": "2589bf118c247698",
+          "publicPath": "/chatsel-docs/assets/js/f7720985.be398714.js"
         }
       ]
     },
@@ -1090,6 +1018,15 @@
         }
       ]
     },
+    "6368": {
+      "js": [
+        {
+          "file": "assets/js/6ccda4f6.dab4b757.js",
+          "hash": "fb2d6cb46dee8a95",
+          "publicPath": "/chatsel-docs/assets/js/6ccda4f6.dab4b757.js"
+        }
+      ]
+    },
     "6383": {
       "js": [
         {
@@ -1117,21 +1054,30 @@
         }
       ]
     },
+    "6473": {
+      "js": [
+        {
+          "file": "assets/js/d71c50fd.cd4bfb19.js",
+          "hash": "cb3577422ea32ea1",
+          "publicPath": "/chatsel-docs/assets/js/d71c50fd.cd4bfb19.js"
+        }
+      ]
+    },
+    "6566": {
+      "js": [
+        {
+          "file": "assets/js/6bda22d8.41ab5ccd.js",
+          "hash": "14c68e884c032eda",
+          "publicPath": "/chatsel-docs/assets/js/6bda22d8.41ab5ccd.js"
+        }
+      ]
+    },
     "6887": {
       "js": [
         {
           "file": "assets/js/reactPlayerFacebook.520f3c93.js",
           "hash": "9ec76e20eb3ea7d7",
           "publicPath": "/chatsel-docs/assets/js/reactPlayerFacebook.520f3c93.js"
-        }
-      ]
-    },
-    "6913": {
-      "js": [
-        {
-          "file": "assets/js/2559e88d.81e98415.js",
-          "hash": "335cc63f5d4927ed",
-          "publicPath": "/chatsel-docs/assets/js/2559e88d.81e98415.js"
         }
       ]
     },
@@ -1144,12 +1090,12 @@
         }
       ]
     },
-    "7048": {
+    "7012": {
       "js": [
         {
-          "file": "assets/js/7b883092.ea032ee7.js",
-          "hash": "86966dffee8463ce",
-          "publicPath": "/chatsel-docs/assets/js/7b883092.ea032ee7.js"
+          "file": "assets/js/99b470a1.66b43c7c.js",
+          "hash": "00cdfcd131fe3eb6",
+          "publicPath": "/chatsel-docs/assets/js/99b470a1.66b43c7c.js"
         }
       ]
     },
@@ -1183,9 +1129,9 @@
     "7427": {
       "js": [
         {
-          "file": "assets/js/c08fc4b8.9e4c6f7f.js",
-          "hash": "2f2a0b69aeeffbf9",
-          "publicPath": "/chatsel-docs/assets/js/c08fc4b8.9e4c6f7f.js"
+          "file": "assets/js/c08fc4b8.2ebc66d6.js",
+          "hash": "39bfb39eb1482566",
+          "publicPath": "/chatsel-docs/assets/js/c08fc4b8.2ebc66d6.js"
         }
       ]
     },
@@ -1201,9 +1147,9 @@
     "7472": {
       "js": [
         {
-          "file": "assets/js/814f3328.f8e9aa0c.js",
-          "hash": "48ff1a0b5ebe80bf",
-          "publicPath": "/chatsel-docs/assets/js/814f3328.f8e9aa0c.js"
+          "file": "assets/js/814f3328.ef1db35e.js",
+          "hash": "5082c4c001f9e9e3",
+          "publicPath": "/chatsel-docs/assets/js/814f3328.ef1db35e.js"
         }
       ]
     },
@@ -1252,6 +1198,15 @@
         }
       ]
     },
+    "7945": {
+      "js": [
+        {
+          "file": "assets/js/0cbd4911.1e9d75c0.js",
+          "hash": "4425ab09054fdfc0",
+          "publicPath": "/chatsel-docs/assets/js/0cbd4911.1e9d75c0.js"
+        }
+      ]
+    },
     "8209": {
       "js": [
         {
@@ -1297,21 +1252,12 @@
         }
       ]
     },
-    "8609": {
+    "8586": {
       "js": [
         {
-          "file": "assets/js/925b3f96.b0b158e9.js",
-          "hash": "3c7ebf8de33f91cf",
-          "publicPath": "/chatsel-docs/assets/js/925b3f96.b0b158e9.js"
-        }
-      ]
-    },
-    "8634": {
-      "js": [
-        {
-          "file": "assets/js/f67f0da5.62edf436.js",
-          "hash": "7b326ff7e9ecc173",
-          "publicPath": "/chatsel-docs/assets/js/f67f0da5.62edf436.js"
+          "file": "assets/js/5bbfa106.3164d640.js",
+          "hash": "18c6fec4d69803ae",
+          "publicPath": "/chatsel-docs/assets/js/5bbfa106.3164d640.js"
         }
       ]
     },
@@ -1324,39 +1270,12 @@
         }
       ]
     },
-    "8737": {
-      "js": [
-        {
-          "file": "assets/js/7661071f.1af301db.js",
-          "hash": "d2584b6b444c2ec6",
-          "publicPath": "/chatsel-docs/assets/js/7661071f.1af301db.js"
-        }
-      ]
-    },
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.8ba41f32.js",
-          "hash": "6260027f403fc50c",
-          "publicPath": "/chatsel-docs/assets/js/main.8ba41f32.js"
-        }
-      ]
-    },
-    "8969": {
-      "js": [
-        {
-          "file": "assets/js/3655281b.20ec95ad.js",
-          "hash": "1654faa05b20e0df",
-          "publicPath": "/chatsel-docs/assets/js/3655281b.20ec95ad.js"
-        }
-      ]
-    },
-    "9032": {
-      "js": [
-        {
-          "file": "assets/js/9abd610d.43b8f254.js",
-          "hash": "d966efb8d127b4c7",
-          "publicPath": "/chatsel-docs/assets/js/9abd610d.43b8f254.js"
+          "file": "assets/js/main.f963da06.js",
+          "hash": "2c5f920176500f06",
+          "publicPath": "/chatsel-docs/assets/js/main.f963da06.js"
         }
       ]
     },
@@ -1372,9 +1291,9 @@
     "9133": {
       "js": [
         {
-          "file": "assets/js/a84b7ff6.396a62ae.js",
-          "hash": "f58d698d897da3b3",
-          "publicPath": "/chatsel-docs/assets/js/a84b7ff6.396a62ae.js"
+          "file": "assets/js/a84b7ff6.7bf70da1.js",
+          "hash": "362dfca39f1308d6",
+          "publicPath": "/chatsel-docs/assets/js/a84b7ff6.7bf70da1.js"
         }
       ]
     },
@@ -1393,24 +1312,6 @@
           "file": "assets/js/9ae3eced.d2cf9532.js",
           "hash": "7883001571b743e9",
           "publicPath": "/chatsel-docs/assets/js/9ae3eced.d2cf9532.js"
-        }
-      ]
-    },
-    "9325": {
-      "js": [
-        {
-          "file": "assets/js/59362658.9f3a1c80.js",
-          "hash": "927f255134ab2414",
-          "publicPath": "/chatsel-docs/assets/js/59362658.9f3a1c80.js"
-        }
-      ]
-    },
-    "9328": {
-      "js": [
-        {
-          "file": "assets/js/e273c56f.11ffd7fa.js",
-          "hash": "594a93af6dee998b",
-          "publicPath": "/chatsel-docs/assets/js/e273c56f.11ffd7fa.js"
         }
       ]
     },
@@ -1435,18 +1336,9 @@
     "9527": {
       "js": [
         {
-          "file": "assets/js/21e75628.ce2f7bb6.js",
-          "hash": "2cc656d9ca9fff4f",
-          "publicPath": "/chatsel-docs/assets/js/21e75628.ce2f7bb6.js"
-        }
-      ]
-    },
-    "9544": {
-      "js": [
-        {
-          "file": "assets/js/c9755dec.d18236e1.js",
-          "hash": "ccb775f08226eebe",
-          "publicPath": "/chatsel-docs/assets/js/c9755dec.d18236e1.js"
+          "file": "assets/js/21e75628.86c29d42.js",
+          "hash": "719db655a6e6fa54",
+          "publicPath": "/chatsel-docs/assets/js/21e75628.86c29d42.js"
         }
       ]
     },

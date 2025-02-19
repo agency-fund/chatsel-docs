@@ -12,9 +12,9 @@ This page is under development...
 
 **Objective**: To assist organizations in analyzing user movement through different stages of the user funnel, identifying key target metrics to track engagement, and understanding the psychological needs that drive deeper user interaction with the product.
 
-**Tool**: ⭐ [Funnels and Metrics Activity (Onboarding, Nov 2024)](https://docs.google.com/spreadsheets/d/1pDVfgZ8TkXg8BJkVQmmv5QpLbXFHxZZoXBzTYtXF0cs/edit?usp=sharing) by Robert On
+**Tool**: ⭐ Funnels and Metrics Activity (Onboarding, Nov 2024) by Robert On *(tool available upon request)*
 
-**Tool Readiness**: 100%
+**Tool Readiness**: 90%
 
 **Examples**: 
 [User Funnel for ChatSEL](/docs/t2-behind-the-build/Learning%20Engineering/p2-user-funnel-chatsel.md)

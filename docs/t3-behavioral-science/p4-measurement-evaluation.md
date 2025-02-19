@@ -12,7 +12,7 @@ This page is under development...
 
 **Objective**: To equip organizations with the tools and frameworks needed for effective measurement and evaluation of user attitude and behavior on- and off-platform. By systematically tracking key metrics and assessing the impact of interventions, organizations can make data-driven decisions, optimize user experiences, and continuously refine their strategies to drive meaningful and sustained engagement and behavioral change.
 
-**Tool**: A refined (and perhaps simplified) playbook based on: [AI4GD Measurement & Evaluation Playbook](https://docs.google.com/document/d/1Lal-2srlHp-vc5xCYPqaAKAdsLb3rSD_ptSR_8fTJ20/edit?tab=t.0#heading=h.qd2wsjx0hgpg) by Zezhen (Michael) Wu
+**Tool**: AI4GD Measurement & Evaluation Playbook by Zezhen (Michael) Wu *(tool available upon request)*
 
 Tool Readiness: 50% 
 

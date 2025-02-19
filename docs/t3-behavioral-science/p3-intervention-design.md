@@ -14,9 +14,9 @@ This page is under development...
 
 **Tool**: A refined (and perhaps simplified) playbook based on:
 
-⭐ [Navigation Flowchart](https://miro.com/app/board/uXjVLs3u2Z8=/) by Patricia Andrews Fearon
+⭐ Navigation Flowchart by Patricia Andrews Fearon *(tool available upon request)*
 
-⭐ [Idea implementation tools](https://www.notion.so/agencyfund/Make-decisions-on-the-drafted-messages-1816311d558d8094923ed0d703d4c4c0?pvs=4) by Zezhen (Michael) Wu
+⭐ Idea implementation tools by Zezhen (Michael) Wu *(tool available upon request)*
 
 **Tool Readiness**: 75% 
 
