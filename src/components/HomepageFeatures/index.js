@@ -5,41 +5,38 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Interactive SEL Learning',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    image: require('@site/static/img/chatsel-interactive-learning.png').default,
     description: (
       <>
-        ChatSEL provides personalized, step-by-step guidance for implementing SEL kernels tailored to teachers' preferences and classroom contexts. 
-        Its “role-play” mode allows teachers to practice activities with real-time feedback.
+        ChatSEL provides personalized guidance and role plays for implementing SEL kernels tailored to teachers' preferences and classroom contexts. 
       </>
     ),
   },
   {
     title: 'Feedback-Driven Recommendations',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    image: require('@site/static/img/chatsel-feedback-driven-recommendation.png').default,
     description: (
       <>
-        Teachers share daily feedback, enabling ChatSEL to refine activity suggestions over time. 
-        It promotes smarter, more diverse recommendations for seamless classroom integration.
+        Teachers share daily feedback to ChatSEL to make it offer smarter, more diverse recommendations for seamless classroom integration.
       </>
     ),
   },
   {
     title: 'Inclusive and Culturally Adaptable',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    image: require('@site/static/img/chatsel-culturally-adaptable.png').default,
     description: (
       <>
-        With real-time translation and voice interaction, ChatSEL supports diverse teacher needs. 
-        It also provides culturally relevant SEL activities and tips for addressing classroom challenges.
+        With real-time translation and culturally responsive interactions, ChatSEL provides personalized support to diverse teacher needs. 
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} alt={title} className={styles.featureImg} style={{ width: '100%', maxWidth: '400px' }} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

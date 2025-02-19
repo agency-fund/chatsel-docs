@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "ChatSEL",
-  "tagline": "A social and emotional learning (SEL) generative AI chatbot",
+  "title": "ChatSEL 🌱",
+  "tagline": "A social and emotional learning (SEL) AI chatbot designed by The Agency Fund",
   "favicon": "img/favicon.ico",
   "markdown": {
     "mermaid": true,
@@ -65,7 +65,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/chatsel-social-card.jpg",
     "navbar": {
       "title": "",
       "logo": {

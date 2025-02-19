@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/chatsel-docs/__docusaurus/debug',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug', '5cd'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/config', 'f61'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/content', '85f'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/globalData', '563'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/metadata', '703'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/registry', '227'),
+    exact: true
+  },
+  {
+    path: '/chatsel-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/routes', '8a9'),
+    exact: true
+  },
+  {
     path: '/chatsel-docs/blog',
     component: ComponentCreator('/chatsel-docs/blog', '557'),
     exact: true

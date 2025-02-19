@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ChatSEL',
-  tagline: 'A social and emotional learning (SEL) generative AI chatbot',
+  title: 'ChatSEL 🌱',
+  tagline: 'A social and emotional learning (SEL) AI chatbot designed by The Agency Fund',
   favicon: 'img/favicon.ico',
   
   // Mermaid config
@@ -80,7 +80,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/chatsel-social-card.jpg',
       navbar: {
         title: '',
         logo: {
