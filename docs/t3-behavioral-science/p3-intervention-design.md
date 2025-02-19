@@ -20,7 +20,7 @@ This page is under development...
 
 **Tool Readiness**: 75% 
 
-**Examples**: [Noora Health’s KMC Experiment Roadmap](https://www.notion.so/agencyfund/KMC-Experiment-Roadmap-1126311d558d8053812ce7999b6a275d?pvs=4)
+**Examples**: To be developed...
 
 **Expected outputs from grantees**:
 - A document that discusses the organization’s thinking process following our playbook, based on their user research plans and results
