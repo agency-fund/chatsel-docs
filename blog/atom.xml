@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://agency-fund.github.io/chatsel-docs/blog</id>
-    <title>ChatSEL Blog</title>
+    <title>ChatSEL 🌱 Blog</title>
     <updated>2025-02-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://agency-fund.github.io/chatsel-docs/blog"/>
-    <subtitle>ChatSEL Blog</subtitle>
+    <subtitle>ChatSEL 🌱 Blog</subtitle>
     <icon>https://agency-fund.github.io/chatsel-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[About Us]]></title>
