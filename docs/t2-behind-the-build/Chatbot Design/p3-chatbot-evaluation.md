@@ -38,4 +38,6 @@ This section is under development...
 
 [RAGAS metrics](https://docs.ragas.io/en/stable/concepts/metrics/overview/)
 
+[Phased evaluation](https://docs.google.com/document/d/1Qm5UBPprOAsgjI-lDIslVkF9B_irzntrgZIlqCPCds8/edit?usp=sharing)
+
 <img src={require('/img/ragas-metrics.jpg').default} />

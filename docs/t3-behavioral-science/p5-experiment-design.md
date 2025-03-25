@@ -17,7 +17,7 @@ This page is under development...
 **Tool Readiness**: 75% 
 
 **Examples**: 
-⭐ [Noora Health RES A/B Test](https://docs.google.com/document/d/12cAmkBZ0ob8m79Vq57Zcb-u0YvrkT2TBXKTsecAs6xQ/edit?tab=t.0) by Noora & Elia Gandolfi
+⭐ TBD...
 
 **Expected outputs from grantees**:
 - An experiment plan following the template
