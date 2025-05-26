@@ -1,7 +1,7 @@
 {
   "id": "t2-behind-the-build/Chatbot Design/p1-system-prompt",
   "title": "System Prompt",
-  "description": "- Always version control your system prompts.",
+  "description": "- We always version control our system prompts.",
   "source": "@site/docs/t2-behind-the-build/Chatbot Design/p1-system-prompt.md",
   "sourceDirName": "t2-behind-the-build/Chatbot Design",
   "slug": "/t2-behind-the-build/Chatbot Design/p1-system-prompt",

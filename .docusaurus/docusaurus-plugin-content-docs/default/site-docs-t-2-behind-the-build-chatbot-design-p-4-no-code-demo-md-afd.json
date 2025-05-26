@@ -1,7 +1,7 @@
 {
   "id": "t2-behind-the-build/Chatbot Design/p4-no-code-demo",
   "title": "Minimal Viable Product (MVP)",
-  "description": "A hands-on no-code option for product managers",
+  "description": "This page is under development...",
   "source": "@site/docs/t2-behind-the-build/Chatbot Design/p4-no-code-demo.md",
   "sourceDirName": "t2-behind-the-build/Chatbot Design",
   "slug": "/t2-behind-the-build/Chatbot Design/p4-no-code-demo",
@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LLM Evals",
-    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation"
+    "title": "Model Evaluation",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-model-evaluation"
   },
   "next": {
     "title": "What is Learning Engineering?",

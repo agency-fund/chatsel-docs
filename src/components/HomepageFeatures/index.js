@@ -4,41 +4,44 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Interactive SEL Learning',
+    title: 'Evidence-Based SEL Coaching',
     image: require('@site/static/img/chatsel-interactive-learning.png').default,
     description: (
       <>
-        ChatSEL provides personalized guidance and role plays for implementing SEL kernels tailored to teachers' preferences and classroom contexts. 
+        ChatSEL offers AI-driven, research-backed guidance to help teachers integrate SEL into their daily practice. We work with NGOs to develop context-specific versions of ChatSEL that incorporate both academic knowledge on SEL coaching and the organization's own SEL curriculum. 
       </>
     ),
   },
   {
-    title: 'Feedback-Driven Recommendations',
+    title: 'Feedback-Driven Learning',
     image: require('@site/static/img/chatsel-feedback-driven-recommendation.png').default,
     description: (
       <>
-        Teachers share daily feedback to ChatSEL to make it offer smarter, more diverse recommendations for seamless classroom integration.
+        As teachers learn from ChatSEL's guidance, ChatSEL also learns from teachers. Their daily input helps the system create a continuous feedback loop that improves both the tool and teaching practice over time. We hope that ChatSEL can be an always-online coach for teachers, especially when immediate human support is not available in low-resource settings.
       </>
     ),
   },
   {
-    title: 'Inclusive and Culturally Adaptable',
+    title: 'Multimodal Support for Diverse Needs',
     image: require('@site/static/img/chatsel-culturally-adaptable.png').default,
     description: (
       <>
-        With real-time translation and culturally responsive interactions, ChatSEL provides personalized support to diverse teacher needs. 
+        ChatSEL offers multilingual support through adaptable engagement formats like text, voice, role-play, and games. Again, we work with NGOs to develop evidence-based and context-sensitive guidance that informs ChatSEL's personality and behavior across diverse settings. 
       </>
     ),
   },
 ];
 
-function Feature({image, title, description}) {
+function Feature({ image, title, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <img src={image} alt={title} className={styles.featureImg} style={{ width: '100%', maxWidth: '400px' }} />
-      </div>
-      <div className="text--center padding-horiz--md">
+      <div className="padding-horiz--md" style={{ textAlign: 'left' }}>
+        <img
+          src={image}
+          alt={title}
+          className={styles.featureImg}
+          style={{ width: '100%', maxWidth: '400px' }}
+        />
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>

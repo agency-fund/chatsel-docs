@@ -1,0 +1,23 @@
+{
+  "id": "t2-behind-the-build/Learning Engineering/p4-product-user-evaluation",
+  "title": "Product and User Evaluation",
+  "description": "This page is under development...",
+  "source": "@site/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation.md",
+  "sourceDirName": "t2-behind-the-build/Learning Engineering",
+  "slug": "/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation",
+  "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Research",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p3-ux-research-chatsel"
+  }
+}

@@ -12,29 +12,22 @@
         <id>https://agency-fund.github.io/chatsel-docs/blog/aboutus</id>
         <link href="https://agency-fund.github.io/chatsel-docs/blog/aboutus"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering.working environments.]]></summary>
-        <content type="html"><![CDATA[<p>Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering.working environments.</p>
+        <summary type="html"><![CDATA[Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering working environments.]]></summary>
+        <content type="html"><![CDATA[<p>Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering working environments.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="core-team">Core Team<a href="https://agency-fund.github.io/chatsel-docs/blog/aboutus#core-team" class="hash-link" aria-label="Direct link to Core Team" title="Direct link to Core Team">​</a></h2>
 <ul>
 <li>
-<p><strong>Zezhen Wu</strong> will lead the development of SEL content, research strategies, and product development. As a behavioral scientist at the Agency Fund with a PhD in Psychology and Social Intervention, Zezhen has extensive experience designing educational and psychological interventions in low- and middle-income countries. Zezhen will maintain close collaborations with Professor Stephanie Jones and Rebecca Bailey from the Harvard EASEL Lab, globally recognized experts in SEL kernels, who will support the evaluation and scaling of ChatSEL alongside their team of SEL experts, and colleagues at New York University, including <strong>Lucero Ramirez-Varela</strong>, an SEL expert with diverse experience of SEL measurement in low- and middle-income countries.</p>
+<p><strong>Zezhen Wu</strong> will lead the development of SEL content, research strategies, and product development. As a behavioral scientist at the Agency Fund with a PhD in Psychology and Social Intervention, Zezhen has extensive experience designing educational and psychological interventions in low- and middle-income countries.</p>
+</li>
+<li>
+<p><strong>Lucero Ramirez Varela</strong> is a doctoral student in the Psychology and Social Intervention Program at NYU Steinhardt. Lucero is passionate about understanding how high-quality evidence about developmental science can lead and promote action across multiple stakeholders. She also works on the content development of ChatSEL and leads the partnership with Enseña por Colombia to pilot ChatSEL in Colombian classrooms.</p>
 </li>
 <li>
 <p><strong>Edmund Korley</strong> is a software engineer at the Agency Fund with a decade of experience in the tech and social sectors. He has worked on diverse projects ranging from data extraction systems for police departments to financial lending tools and has substantial experience building LLM prototypes for NGOs. Edmund is passionate about using technology to promote global economic and social justice and plays an active role in driving AI adoption in Africa.</p>
 </li>
 <li>
-<p><strong>Linus Wong</strong> is a data and software engineer at the Agency Fund, specializing in A/B testing, dashboard building, and infrastructure monitoring. Linus brings expertise in tools such as Metabase, New Relic, Grafana, and Prometheus, and has strong experience in data science, ELT processes, and supporting A/B testing for multiple Agency Fund partners.
-The project is also supported by researchers from the Labhya Foundation and the Agency Fund's data and social science team, both experienced in large-scale psychological interventions in low-resource settings. Their expertise ensures the SEL chatbot is both field-feasible and grounded in solid theoretical foundations.</p>
+<p><strong>Linus Wong</strong> is a data and software engineer at the Agency Fund, specializing in A/B testing, dashboard building, and infrastructure monitoring. Linus brings expertise in tools such as Metabase, New Relic, Grafana, and Prometheus, and has strong experience in data science, ELT processes, and supporting A/B testing for multiple Agency Fund partners.</p>
 </li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="external-research-and-design-partners">External Research and Design Partners<a href="https://agency-fund.github.io/chatsel-docs/blog/aboutus#external-research-and-design-partners" class="hash-link" aria-label="Direct link to External Research and Design Partners" title="Direct link to External Research and Design Partners">​</a></h2>
-<ul>
-<li><strong>Stephanie M. Jones</strong>, Gerald S. Lesser Professor in Early Childhood Development, Harvard University</li>
-<li><strong>Rebecca Bailey</strong>, Associate Director of the EASEL Lab, Harvard University</li>
-<li><strong>Richa Gupta</strong>, CEO &amp; Co-founder, Labhya Foundation</li>
-<li><strong>Vedant Jain</strong>, Chief Partnerships Officer &amp; Co-founder, Labhya Foundation</li>
-<li><strong>Aashna Taneja</strong>, Monitoring, Evaluation &amp; Learning Lead, Labhya Foundation</li>
-<li><strong>Gayatri Nair</strong>, Research Associate, Labhya Foundation</li>
 </ul>]]></content>
         <author>
             <name>Zezhen (Michael) Wu</name>
@@ -47,6 +40,10 @@ The project is also supported by researchers from the Labhya Foundation and the 
         <author>
             <name>Linus Wong</name>
             <uri>https://www.linkedin.com/in/linus-wong-999b551/</uri>
+        </author>
+        <author>
+            <name>Lucero Ramirez Varela</name>
+            <uri>https://www.linkedin.com/in/luceroramirezvarela/?locale=en_US</uri>
         </author>
         <category label="introduction" term="introduction"/>
     </entry>

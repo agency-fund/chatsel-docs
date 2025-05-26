@@ -26,8 +26,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation",
-              "path": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation",
+              "id": "t2-behind-the-build/Chatbot Design/p3-model-evaluation",
+              "path": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-model-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,43 +56,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "t2-behind-the-build/Learning Engineering/p4-evaluation",
-              "path": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/p1-user-funnel",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/p1-user-funnel",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/p2-user-research",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/p2-user-research",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/p3-intervention-design",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/p3-intervention-design",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/p4-measurement-evaluation",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "t3-behavioral-science/p5-experiment-design",
-              "path": "/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design",
+              "id": "t2-behind-the-build/Learning Engineering/p4-product-user-evaluation",
+              "path": "/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/behind-the-build",
               "path": "/chatsel-docs/docs/category/behind-the-build",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/genai-playbooks-tbd",
-              "path": "/chatsel-docs/docs/category/genai-playbooks-tbd",
               "sidebar": "tutorialSidebar"
             }
           ],

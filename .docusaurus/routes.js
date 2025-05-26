@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/chatsel-docs/__docusaurus/debug',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug', '5cd'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/config', 'f61'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/content', '85f'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/globalData', '563'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/metadata', '703'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/registry', '227'),
-    exact: true
-  },
-  {
-    path: '/chatsel-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/chatsel-docs/__docusaurus/debug/routes', '8a9'),
-    exact: true
-  },
-  {
     path: '/chatsel-docs/blog',
     component: ComponentCreator('/chatsel-docs/blog', '557'),
     exact: true
@@ -89,25 +54,19 @@ export default [
   },
   {
     path: '/chatsel-docs/docs',
-    component: ComponentCreator('/chatsel-docs/docs', '808'),
+    component: ComponentCreator('/chatsel-docs/docs', '4bf'),
     routes: [
       {
         path: '/chatsel-docs/docs',
-        component: ComponentCreator('/chatsel-docs/docs', '7a5'),
+        component: ComponentCreator('/chatsel-docs/docs', 'fcc'),
         routes: [
           {
             path: '/chatsel-docs/docs',
-            component: ComponentCreator('/chatsel-docs/docs', 'ba8'),
+            component: ComponentCreator('/chatsel-docs/docs', '90f'),
             routes: [
               {
                 path: '/chatsel-docs/docs/category/behind-the-build',
                 component: ComponentCreator('/chatsel-docs/docs/category/behind-the-build', '898'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/category/genai-playbooks-tbd',
-                component: ComponentCreator('/chatsel-docs/docs/category/genai-playbooks-tbd', '810'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -130,8 +89,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation',
-                component: ComponentCreator('/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation', '2ee'),
+                path: '/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-model-evaluation',
+                component: ComponentCreator('/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-model-evaluation', '338'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -166,38 +125,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation',
-                component: ComponentCreator('/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-evaluation', '824'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/t3-behavioral-science/p1-user-funnel',
-                component: ComponentCreator('/chatsel-docs/docs/t3-behavioral-science/p1-user-funnel', 'd9c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/t3-behavioral-science/p2-user-research',
-                component: ComponentCreator('/chatsel-docs/docs/t3-behavioral-science/p2-user-research', 'b1a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/t3-behavioral-science/p3-intervention-design',
-                component: ComponentCreator('/chatsel-docs/docs/t3-behavioral-science/p3-intervention-design', 'cb5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation',
-                component: ComponentCreator('/chatsel-docs/docs/t3-behavioral-science/p4-measurement-evaluation', '669'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design',
-                component: ComponentCreator('/chatsel-docs/docs/t3-behavioral-science/p5-experiment-design', 'bd2'),
+                path: '/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation',
+                component: ComponentCreator('/chatsel-docs/docs/t2-behind-the-build/Learning Engineering/p4-product-user-evaluation', '58b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

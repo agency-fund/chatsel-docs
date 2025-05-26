@@ -2,7 +2,7 @@ edmund:
   name: Edmund Korley
   title: Software Engineer
   url: https://www.linkedin.com/in/edmundkorley/
-  image_url: https://github.com/EdmundKorley.png
+  image_url: /img/profile/edmund.jpg
   page: true
   socials:
     linkedin: EdmundKorley
@@ -10,9 +10,9 @@ edmund:
 
 zezhen:
   name: Zezhen (Michael) Wu
-  title: Behavioral Scientist @ The Agency Fund
+  title: Behavioral Scientist
   url: https://www.linkedin.com/in/zezhenwu/
-  image_url: https://github.com/littlehifive.png
+  image_url: /img/profile/zezhen.jpg
   page: true
     # customize the url of the author page at /blog/authors/<permalink>
     # permalink: '/all-zezhen-wu-articles'
@@ -24,8 +24,16 @@ linus:
   name: Linus Wong
   title: Software Engineer
   url: https://www.linkedin.com/in/linus-wong-999b551/
-  image_url: https://github.com/qixotic.png
+  image_url: /img/profile/linus.jpg
   page: true
   socials:
     linkedin: linus-wong-999b551
     github: qixotic
+
+lucero:
+  name: Lucero Ramirez Varela
+  title: Research Assistant
+  url: https://www.linkedin.com/in/luceroramirezvarela/?locale=en_US
+  image_url: /img/profile/lucero.jpg
+  socials:
+    linkedin: luceroramirezvarela

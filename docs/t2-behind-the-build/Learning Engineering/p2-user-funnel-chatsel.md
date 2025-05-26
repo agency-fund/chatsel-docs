@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# User Funnel for ChatSEL
+# User Funnel
 
 Here we provide a step-by-step framework that illustrates the journey of teachers from the initial point of awareness about ChatSEL to the final impact on student outcomes. It helps track user behaviors, identify drop-off points, and optimize engagement strategies. For ChatSEL, which operates in low-resource settings, the funnel ensures teachers are effectively onboarded, engaged, and supported to achieve meaningful classroom outcomes.
 
@@ -29,7 +29,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    Y{ } --> |Routine classroom implementation of SEL kernels informed by classroom situation| F[Teachers achieve proximal classroom outcomes]
+    Y{ } --> |Routine classroom implementation of SEL activities informed by classroom situation| F[Teachers achieve proximal classroom outcomes]
     F --> |Supportive classroom environment for SEL development and increased SEL skills for students| G[Students achieve desired development outcomes]
 ```
 

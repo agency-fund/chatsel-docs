@@ -5,7 +5,7 @@
  */
 export default {
   "title": "ChatSEL 🌱",
-  "tagline": "A social and emotional learning (SEL) AI chatbot designed by The Agency Fund",
+  "tagline": "An Open-Source AI-powered Teacher Coaching Chatbot for Diverse SEL Programming in Low-Resource Settings",
   "favicon": "img/favicon.ico",
   "markdown": {
     "mermaid": true,
@@ -112,12 +112,16 @@ export default {
               "href": "https://www.agency.fund/"
             },
             {
+              "label": "Enseña por Colombia",
+              "href": "https://ensenaporcolombia.org/"
+            },
+            {
               "label": "Harvard EASEL Lab",
               "href": "https://easel.gse.harvard.edu/"
             },
             {
-              "label": "SEL Kernels",
-              "href": "https://selkernels.gse.harvard.edu/en-US"
+              "label": "Girl Rising",
+              "href": "https://www.girlrising.org/"
             }
           ]
         },

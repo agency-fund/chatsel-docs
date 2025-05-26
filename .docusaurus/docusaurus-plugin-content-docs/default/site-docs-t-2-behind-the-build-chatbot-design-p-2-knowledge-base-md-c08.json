@@ -1,7 +1,7 @@
 {
   "id": "t2-behind-the-build/Chatbot Design/p2-knowledge-base",
   "title": "Knowledge Base",
-  "description": "For more information, please visit the Harvard EASEL Lab's website and its SEL kernels website.",
+  "description": "- We curate a core knowledge base for ChatSEL that are applicable to all contexts. This includes publicly available guidelines and academic literature on SEL coaching in low-resource settings.",
   "source": "@site/docs/t2-behind-the-build/Chatbot Design/p2-knowledge-base.md",
   "sourceDirName": "t2-behind-the-build/Chatbot Design",
   "slug": "/t2-behind-the-build/Chatbot Design/p2-knowledge-base",
@@ -21,7 +21,7 @@
     "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p1-system-prompt"
   },
   "next": {
-    "title": "LLM Evals",
-    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-chatbot-evaluation"
+    "title": "Model Evaluation",
+    "permalink": "/chatsel-docs/docs/t2-behind-the-build/Chatbot Design/p3-model-evaluation"
   }
 }

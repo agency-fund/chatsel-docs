@@ -91,11 +91,6 @@
       9732,
       3624
     ],
-    "4132": [
-      2384,
-      3867,
-      4132
-    ],
     "4485": [
       4485
     ],
@@ -224,15 +219,15 @@
     "030e7390": [
       292
     ],
-    "0cbd4911": [
-      7945
-    ],
     "12f0d0d3": [
       4543
     ],
     "14eb3368": [
       1869,
       6969
+    ],
+    "1dd1ed0b": [
+      7752
     ],
     "1f391b9e": [
       851,
@@ -241,9 +236,6 @@
     ],
     "21e75628": [
       9527
-    ],
-    "27d3fc1d": [
-      263
     ],
     "31b97a48": [
       808
@@ -289,35 +281,17 @@
       4622,
       4813
     ],
-    "6bda22d8": [
-      6566
-    ],
-    "6ccda4f6": [
-      6368
-    ],
     "814f3328": [
       7472
-    ],
-    "817d6537": [
-      5646
     ],
     "914f8f51": [
       3371
     ],
-    "99b470a1": [
-      7012
-    ],
     "9ae3eced": [
       9258
     ],
-    "9b5a601c": [
-      2690
-    ],
     "9e4087bc": [
       2711
-    ],
-    "a138c2fa": [
-      4176
     ],
     "a6aa9e1f": [
       851,
@@ -345,7 +319,6 @@
       1903
     ],
     "afdefdc3": [
-      4132,
       3867
     ],
     "b721dfb1": [
@@ -371,7 +344,6 @@
       6473
     ],
     "da28f31b": [
-      4132,
       2384
     ],
     "e7e41662": [
@@ -380,47 +352,8 @@
     "f7720985": [
       6129
     ],
-    "reactPlayerYouTube": [
-      8446
-    ],
-    "reactPlayerSoundCloud": [
-      9979
-    ],
-    "reactPlayerVimeo": [
-      6173
-    ],
-    "reactPlayerMux": [
-      2723
-    ],
-    "reactPlayerFacebook": [
-      6887
-    ],
-    "reactPlayerStreamable": [
-      7627
-    ],
-    "reactPlayerWistia": [
-      9340
-    ],
-    "reactPlayerTwitch": [
-      2042
-    ],
-    "reactPlayerDailyMotion": [
-      6328
-    ],
-    "reactPlayerMixcloud": [
-      7570
-    ],
-    "reactPlayerVidyard": [
-      3392
-    ],
-    "reactPlayerKaltura": [
-      6463
-    ],
-    "reactPlayerFilePlayer": [
-      7458
-    ],
-    "reactPlayerPreview": [
-      6353
+    "f934ddc0": [
+      8460
     ],
     "styles": [
       851,
@@ -451,21 +384,12 @@
         }
       ]
     },
-    "263": {
-      "js": [
-        {
-          "file": "assets/js/27d3fc1d.698f4d68.js",
-          "hash": "cbb2bc6755e46387",
-          "publicPath": "/chatsel-docs/assets/js/27d3fc1d.698f4d68.js"
-        }
-      ]
-    },
     "292": {
       "js": [
         {
-          "file": "assets/js/030e7390.bb4297dd.js",
-          "hash": "c9b0bb0057f86ef4",
-          "publicPath": "/chatsel-docs/assets/js/030e7390.bb4297dd.js"
+          "file": "assets/js/030e7390.5c314125.js",
+          "hash": "98d37d654337c0bf",
+          "publicPath": "/chatsel-docs/assets/js/030e7390.5c314125.js"
         }
       ]
     },
@@ -499,27 +423,27 @@
     "808": {
       "js": [
         {
-          "file": "assets/js/31b97a48.4665ca83.js",
-          "hash": "ee5058c2840b26f1",
-          "publicPath": "/chatsel-docs/assets/js/31b97a48.4665ca83.js"
+          "file": "assets/js/31b97a48.c59485ab.js",
+          "hash": "1b1a7eef0122ad6f",
+          "publicPath": "/chatsel-docs/assets/js/31b97a48.c59485ab.js"
         }
       ]
     },
     "851": {
       "js": [
         {
-          "file": "assets/js/851.2f4a9959.js",
-          "hash": "81eeeddab55f0904",
-          "publicPath": "/chatsel-docs/assets/js/851.2f4a9959.js"
+          "file": "assets/js/851.52650181.js",
+          "hash": "3d35355ebe126f2c",
+          "publicPath": "/chatsel-docs/assets/js/851.52650181.js"
         }
       ]
     },
     "860": {
       "js": [
         {
-          "file": "assets/js/c2987c8e.f0095fa7.js",
-          "hash": "b74540b32f68c085",
-          "publicPath": "/chatsel-docs/assets/js/c2987c8e.f0095fa7.js"
+          "file": "assets/js/c2987c8e.e42375ac.js",
+          "hash": "18b19831fac5c3de",
+          "publicPath": "/chatsel-docs/assets/js/c2987c8e.e42375ac.js"
         }
       ]
     },
@@ -553,9 +477,9 @@
     "1308": {
       "js": [
         {
-          "file": "assets/js/b721dfb1.35502d42.js",
-          "hash": "7e3360963360891d",
-          "publicPath": "/chatsel-docs/assets/js/b721dfb1.35502d42.js"
+          "file": "assets/js/b721dfb1.cdd27bfb.js",
+          "hash": "b8aa082fae9a71c5",
+          "publicPath": "/chatsel-docs/assets/js/b721dfb1.cdd27bfb.js"
         }
       ]
     },
@@ -586,15 +510,6 @@
         }
       ]
     },
-    "2042": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerTwitch.55924fc8.js",
-          "hash": "d692502aa63ba799",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerTwitch.55924fc8.js"
-        }
-      ]
-    },
     "2130": {
       "js": [
         {
@@ -616,9 +531,9 @@
     "2384": {
       "js": [
         {
-          "file": "assets/js/da28f31b.2854713e.js",
-          "hash": "83642c467dbb1253",
-          "publicPath": "/chatsel-docs/assets/js/da28f31b.2854713e.js"
+          "file": "assets/js/da28f31b.bfab0efc.js",
+          "hash": "d30e57c83a06d294",
+          "publicPath": "/chatsel-docs/assets/js/da28f31b.bfab0efc.js"
         }
       ]
     },
@@ -634,9 +549,9 @@
     "2634": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.c35c4dca.js",
-          "hash": "85dba50b0e4a5dc8",
-          "publicPath": "/chatsel-docs/assets/js/c4f5d8e4.c35c4dca.js"
+          "file": "assets/js/c4f5d8e4.0c2988a3.js",
+          "hash": "88497ebf522317cb",
+          "publicPath": "/chatsel-docs/assets/js/c4f5d8e4.0c2988a3.js"
         }
       ]
     },
@@ -649,30 +564,12 @@
         }
       ]
     },
-    "2690": {
-      "js": [
-        {
-          "file": "assets/js/9b5a601c.8aae340f.js",
-          "hash": "99b9260f6547c146",
-          "publicPath": "/chatsel-docs/assets/js/9b5a601c.8aae340f.js"
-        }
-      ]
-    },
     "2711": {
       "js": [
         {
           "file": "assets/js/9e4087bc.740cf4d1.js",
           "hash": "335936e1d9f6b0c0",
           "publicPath": "/chatsel-docs/assets/js/9e4087bc.740cf4d1.js"
-        }
-      ]
-    },
-    "2723": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerMux.96710fdb.js",
-          "hash": "b164ec93c5df2ef9",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerMux.96710fdb.js"
         }
       ]
     },
@@ -688,9 +585,9 @@
     "3056": {
       "js": [
         {
-          "file": "assets/js/3056.9d9529e4.js",
-          "hash": "cb227c6a18b0b67b",
-          "publicPath": "/chatsel-docs/assets/js/3056.9d9529e4.js"
+          "file": "assets/js/3056.3bb43fa0.js",
+          "hash": "aa75408c4957c04b",
+          "publicPath": "/chatsel-docs/assets/js/3056.3bb43fa0.js"
         }
       ]
     },
@@ -715,18 +612,9 @@
     "3371": {
       "js": [
         {
-          "file": "assets/js/914f8f51.7032d7bf.js",
-          "hash": "f5b6fcdd09f637e3",
-          "publicPath": "/chatsel-docs/assets/js/914f8f51.7032d7bf.js"
-        }
-      ]
-    },
-    "3392": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerVidyard.25969071.js",
-          "hash": "5dbe5a128a4d51d3",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerVidyard.25969071.js"
+          "file": "assets/js/914f8f51.deb64eab.js",
+          "hash": "15219736f7a87536",
+          "publicPath": "/chatsel-docs/assets/js/914f8f51.deb64eab.js"
         }
       ]
     },
@@ -742,27 +630,18 @@
     "3668": {
       "js": [
         {
-          "file": "assets/js/5f982feb.9845d9cc.js",
-          "hash": "4532f718411b5b9a",
-          "publicPath": "/chatsel-docs/assets/js/5f982feb.9845d9cc.js"
+          "file": "assets/js/5f982feb.9d75f8cf.js",
+          "hash": "51cc97dc3e434499",
+          "publicPath": "/chatsel-docs/assets/js/5f982feb.9d75f8cf.js"
         }
       ]
     },
     "3867": {
       "js": [
         {
-          "file": "assets/js/afdefdc3.bc5be927.js",
-          "hash": "691d55ae9864cc04",
-          "publicPath": "/chatsel-docs/assets/js/afdefdc3.bc5be927.js"
-        }
-      ]
-    },
-    "4132": {
-      "js": [
-        {
-          "file": "assets/js/4132.5f03a367.js",
-          "hash": "eede52d2032b5564",
-          "publicPath": "/chatsel-docs/assets/js/4132.5f03a367.js"
+          "file": "assets/js/afdefdc3.4e94cd70.js",
+          "hash": "3b41fb2aec1ae942",
+          "publicPath": "/chatsel-docs/assets/js/afdefdc3.4e94cd70.js"
         }
       ]
     },
@@ -772,15 +651,6 @@
           "file": "assets/js/393be207.247b2aa4.js",
           "hash": "feef9a76e2755e1b",
           "publicPath": "/chatsel-docs/assets/js/393be207.247b2aa4.js"
-        }
-      ]
-    },
-    "4176": {
-      "js": [
-        {
-          "file": "assets/js/a138c2fa.85ae0c2c.js",
-          "hash": "42c92f9274d77918",
-          "publicPath": "/chatsel-docs/assets/js/a138c2fa.85ae0c2c.js"
         }
       ]
     },
@@ -814,9 +684,9 @@
     "4543": {
       "js": [
         {
-          "file": "assets/js/12f0d0d3.3a83e483.js",
-          "hash": "d662f2dfef4e488e",
-          "publicPath": "/chatsel-docs/assets/js/12f0d0d3.3a83e483.js"
+          "file": "assets/js/12f0d0d3.f5e5eca0.js",
+          "hash": "3ba6b8d61d4c15e2",
+          "publicPath": "/chatsel-docs/assets/js/12f0d0d3.f5e5eca0.js"
         }
       ]
     },
@@ -850,9 +720,9 @@
     "4806": {
       "js": [
         {
-          "file": "assets/js/68027ac8.0b76e467.js",
-          "hash": "0b7f4702dcc5f200",
-          "publicPath": "/chatsel-docs/assets/js/68027ac8.0b76e467.js"
+          "file": "assets/js/68027ac8.caf5e946.js",
+          "hash": "5cde8a0319f0c762",
+          "publicPath": "/chatsel-docs/assets/js/68027ac8.caf5e946.js"
         }
       ]
     },
@@ -877,9 +747,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.d57dff77.js",
-          "hash": "09350cface8e8042",
-          "publicPath": "/chatsel-docs/assets/js/runtime~main.d57dff77.js"
+          "file": "assets/js/runtime~main.d05484a5.js",
+          "hash": "e4f1123151f47669",
+          "publicPath": "/chatsel-docs/assets/js/runtime~main.d05484a5.js"
         }
       ]
     },
@@ -895,18 +765,9 @@
     "5573": {
       "js": [
         {
-          "file": "assets/js/e7e41662.84d2e8d1.js",
-          "hash": "a7bb87c5c1b05ada",
-          "publicPath": "/chatsel-docs/assets/js/e7e41662.84d2e8d1.js"
-        }
-      ]
-    },
-    "5646": {
-      "js": [
-        {
-          "file": "assets/js/817d6537.f684dcc3.js",
-          "hash": "0fbffdab292d261a",
-          "publicPath": "/chatsel-docs/assets/js/817d6537.f684dcc3.js"
+          "file": "assets/js/e7e41662.61a2f73d.js",
+          "hash": "6d4e9772645c3ec4",
+          "publicPath": "/chatsel-docs/assets/js/e7e41662.61a2f73d.js"
         }
       ]
     },
@@ -949,18 +810,9 @@
     "6129": {
       "js": [
         {
-          "file": "assets/js/f7720985.be398714.js",
-          "hash": "2589bf118c247698",
-          "publicPath": "/chatsel-docs/assets/js/f7720985.be398714.js"
-        }
-      ]
-    },
-    "6173": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerVimeo.57257293.js",
-          "hash": "1bef8cadb823e762",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerVimeo.57257293.js"
+          "file": "assets/js/f7720985.46580a4f.js",
+          "hash": "ddaeacf765ea5983",
+          "publicPath": "/chatsel-docs/assets/js/f7720985.46580a4f.js"
         }
       ]
     },
@@ -991,39 +843,12 @@
         }
       ]
     },
-    "6328": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerDailyMotion.9f3027a5.js",
-          "hash": "1c3d6db59daaa2ea",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerDailyMotion.9f3027a5.js"
-        }
-      ]
-    },
-    "6353": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerPreview.1a039005.js",
-          "hash": "b4ee236829919da2",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerPreview.1a039005.js"
-        }
-      ]
-    },
     "6355": {
       "js": [
         {
           "file": "assets/js/6355.9a7d636b.js",
           "hash": "93ebc9c10c522aab",
           "publicPath": "/chatsel-docs/assets/js/6355.9a7d636b.js"
-        }
-      ]
-    },
-    "6368": {
-      "js": [
-        {
-          "file": "assets/js/6ccda4f6.5ece9335.js",
-          "hash": "cd97692cb71958ad",
-          "publicPath": "/chatsel-docs/assets/js/6ccda4f6.5ece9335.js"
         }
       ]
     },
@@ -1045,15 +870,6 @@
         }
       ]
     },
-    "6463": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerKaltura.3dc942fb.js",
-          "hash": "4ab385d753a93bb7",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerKaltura.3dc942fb.js"
-        }
-      ]
-    },
     "6473": {
       "js": [
         {
@@ -1063,39 +879,12 @@
         }
       ]
     },
-    "6566": {
-      "js": [
-        {
-          "file": "assets/js/6bda22d8.ff5a31b2.js",
-          "hash": "acef735eeaaabce6",
-          "publicPath": "/chatsel-docs/assets/js/6bda22d8.ff5a31b2.js"
-        }
-      ]
-    },
-    "6887": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerFacebook.520f3c93.js",
-          "hash": "9ec76e20eb3ea7d7",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerFacebook.520f3c93.js"
-        }
-      ]
-    },
     "6969": {
       "js": [
         {
           "file": "assets/js/14eb3368.8839bc2d.js",
           "hash": "f077bdff4143b263",
           "publicPath": "/chatsel-docs/assets/js/14eb3368.8839bc2d.js"
-        }
-      ]
-    },
-    "7012": {
-      "js": [
-        {
-          "file": "assets/js/99b470a1.ac39f7ed.js",
-          "hash": "cb43be557dff31e1",
-          "publicPath": "/chatsel-docs/assets/js/99b470a1.ac39f7ed.js"
         }
       ]
     },
@@ -1129,18 +918,9 @@
     "7427": {
       "js": [
         {
-          "file": "assets/js/c08fc4b8.2ebc66d6.js",
-          "hash": "39bfb39eb1482566",
-          "publicPath": "/chatsel-docs/assets/js/c08fc4b8.2ebc66d6.js"
-        }
-      ]
-    },
-    "7458": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerFilePlayer.426a3449.js",
-          "hash": "564726d0b3c2dea9",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerFilePlayer.426a3449.js"
+          "file": "assets/js/c08fc4b8.cdae762b.js",
+          "hash": "8ae7a4bf024ab203",
+          "publicPath": "/chatsel-docs/assets/js/c08fc4b8.cdae762b.js"
         }
       ]
     },
@@ -1150,24 +930,6 @@
           "file": "assets/js/814f3328.ef1db35e.js",
           "hash": "5082c4c001f9e9e3",
           "publicPath": "/chatsel-docs/assets/js/814f3328.ef1db35e.js"
-        }
-      ]
-    },
-    "7570": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerMixcloud.cf99e4e3.js",
-          "hash": "4445bbe81e8dcb7e",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerMixcloud.cf99e4e3.js"
-        }
-      ]
-    },
-    "7627": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerStreamable.bd504699.js",
-          "hash": "626bb467221406f5",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerStreamable.bd504699.js"
         }
       ]
     },
@@ -1198,12 +960,12 @@
         }
       ]
     },
-    "7945": {
+    "7752": {
       "js": [
         {
-          "file": "assets/js/0cbd4911.e2f81f60.js",
-          "hash": "80ef28e0b84f8764",
-          "publicPath": "/chatsel-docs/assets/js/0cbd4911.e2f81f60.js"
+          "file": "assets/js/1dd1ed0b.4d8a331a.js",
+          "hash": "45ac87b662154570",
+          "publicPath": "/chatsel-docs/assets/js/1dd1ed0b.4d8a331a.js"
         }
       ]
     },
@@ -1234,12 +996,12 @@
         }
       ]
     },
-    "8446": {
+    "8460": {
       "js": [
         {
-          "file": "assets/js/reactPlayerYouTube.5cb1f084.js",
-          "hash": "c2c85af03464d61f",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerYouTube.5cb1f084.js"
+          "file": "assets/js/f934ddc0.744f9531.js",
+          "hash": "cb8a823158edb47e",
+          "publicPath": "/chatsel-docs/assets/js/f934ddc0.744f9531.js"
         }
       ]
     },
@@ -1255,9 +1017,9 @@
     "8586": {
       "js": [
         {
-          "file": "assets/js/5bbfa106.3164d640.js",
-          "hash": "18c6fec4d69803ae",
-          "publicPath": "/chatsel-docs/assets/js/5bbfa106.3164d640.js"
+          "file": "assets/js/5bbfa106.9ad5d91d.js",
+          "hash": "80c3204ce3cb5635",
+          "publicPath": "/chatsel-docs/assets/js/5bbfa106.9ad5d91d.js"
         }
       ]
     },
@@ -1273,9 +1035,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.8545ebab.js",
-          "hash": "01673da24ae3160c",
-          "publicPath": "/chatsel-docs/assets/js/main.8545ebab.js"
+          "file": "assets/js/main.3ec7bce3.js",
+          "hash": "004646c83a686bc8",
+          "publicPath": "/chatsel-docs/assets/js/main.3ec7bce3.js"
         }
       ]
     },
@@ -1309,27 +1071,18 @@
     "9258": {
       "js": [
         {
-          "file": "assets/js/9ae3eced.d2cf9532.js",
-          "hash": "7883001571b743e9",
-          "publicPath": "/chatsel-docs/assets/js/9ae3eced.d2cf9532.js"
-        }
-      ]
-    },
-    "9340": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerWistia.d9e0d5c9.js",
-          "hash": "51f5a10a3d383d1a",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerWistia.d9e0d5c9.js"
+          "file": "assets/js/9ae3eced.cd79d9d6.js",
+          "hash": "4faf4e89a0d6ddbf",
+          "publicPath": "/chatsel-docs/assets/js/9ae3eced.cd79d9d6.js"
         }
       ]
     },
     "9381": {
       "js": [
         {
-          "file": "assets/js/41ef92e0.026f6cd1.js",
-          "hash": "9c74d941f2b14a8a",
-          "publicPath": "/chatsel-docs/assets/js/41ef92e0.026f6cd1.js"
+          "file": "assets/js/41ef92e0.d77444cc.js",
+          "hash": "d94d32a65cca6a8c",
+          "publicPath": "/chatsel-docs/assets/js/41ef92e0.d77444cc.js"
         }
       ]
     },
@@ -1375,15 +1128,6 @@
           "file": "assets/js/36994c47.91c7075c.js",
           "hash": "5672074146f20e05",
           "publicPath": "/chatsel-docs/assets/js/36994c47.91c7075c.js"
-        }
-      ]
-    },
-    "9979": {
-      "js": [
-        {
-          "file": "assets/js/reactPlayerSoundCloud.3af4d82c.js",
-          "hash": "afc7c7be84136881",
-          "publicPath": "/chatsel-docs/assets/js/reactPlayerSoundCloud.3af4d82c.js"
         }
       ]
     }

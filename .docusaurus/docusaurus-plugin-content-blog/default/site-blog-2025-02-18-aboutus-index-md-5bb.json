@@ -3,7 +3,7 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-02-18-aboutus/index.md",
   "source": "@site/blog/2025-02-18-aboutus/index.md",
   "title": "About Us",
-  "description": "Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering.working environments.",
+  "description": "Our team brings together deep domain expertise in psychology and behavioral science, as well as strong technical skills in software and data engineering working environments.",
   "date": "2025-02-18T00:00:00.000Z",
   "tags": [
     {
@@ -12,12 +12,12 @@
       "permalink": "/chatsel-docs/blog/tags/introduction"
     }
   ],
-  "readingTime": 1.86,
+  "readingTime": 1.31,
   "hasTruncateMarker": true,
   "authors": [
     {
       "name": "Zezhen (Michael) Wu",
-      "title": "Behavioral Scientist @ The Agency Fund",
+      "title": "Behavioral Scientist",
       "url": "https://www.linkedin.com/in/zezhenwu/",
       "page": {
         "permalink": "/chatsel-docs/blog/authors/zezhen"
@@ -26,7 +26,7 @@
         "linkedin": "https://www.linkedin.com/in/zezhenwu/",
         "github": "https://github.com/littlehifive"
       },
-      "imageURL": "https://github.com/littlehifive.png",
+      "imageURL": "/chatsel-docs/img/profile/zezhen.jpg",
       "key": "zezhen"
     },
     {
@@ -40,7 +40,7 @@
         "linkedin": "https://www.linkedin.com/in/EdmundKorley/",
         "github": "https://github.com/edmundkorley"
       },
-      "imageURL": "https://github.com/EdmundKorley.png",
+      "imageURL": "/chatsel-docs/img/profile/edmund.jpg",
       "key": "edmund"
     },
     {
@@ -54,8 +54,19 @@
         "linkedin": "https://www.linkedin.com/in/linus-wong-999b551/",
         "github": "https://github.com/qixotic"
       },
-      "imageURL": "https://github.com/qixotic.png",
+      "imageURL": "/chatsel-docs/img/profile/linus.jpg",
       "key": "linus"
+    },
+    {
+      "name": "Lucero Ramirez Varela",
+      "title": "Research Assistant",
+      "url": "https://www.linkedin.com/in/luceroramirezvarela/?locale=en_US",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/luceroramirezvarela/"
+      },
+      "imageURL": "/chatsel-docs/img/profile/lucero.jpg",
+      "key": "lucero",
+      "page": null
     }
   ],
   "frontMatter": {
@@ -64,7 +75,8 @@
     "authors": [
       "zezhen",
       "edmund",
-      "linus"
+      "linus",
+      "lucero"
     ],
     "tags": [
       "introduction"
